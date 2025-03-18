@@ -2,9 +2,8 @@
 
 # Jingxuan Li-portfolio
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
--  https://github.com/lily-lee-ops/Jingxuan-Li-portfolio/
+- Web page URL: https://lily-lee-ops.github.io/Jingxuan-Li-portfolio/
+- This repository: https://github.com/lily-lee-ops/Jingxuan-Li-portfolio/
 
 # About me
 Hello! I’m Jingxuan Li, a passionate data analytics enthusiast currently pursuing my Master’s degree in Information Systems Management with a focus on Business Intelligence and Data Analytics at Carnegie Mellon University, set to graduate in December 2025.
