@@ -4,6 +4,7 @@
 
 - Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+-  https://github.com/lily-lee-ops/Jingxuan-Li-portfolio/
 
 # About me
 Hello! I’m Jingxuan Li, a passionate data analytics enthusiast currently pursuing my Master’s degree in Information Systems Management with a focus on Business Intelligence and Data Analytics at Carnegie Mellon University, set to graduate in December 2025.
@@ -33,7 +34,7 @@ Here it might be helpful to include a high-level description of your final proje
 
 ### Setting up a separate page
 
-`[dataviz-tableau](https://lily-lee-ops.github.io/dataviz-tableau.html)` = [dataviz-tableau](https://lily-lee-ops.github.io/dataviz-tableau/.html)  
+`[dataviz-tableau](https://lily-lee-ops.github.io/dataviz-tableau/)` = [dataviz-tableau](https://lily-lee-ops.github.io/dataviz-tableau/)  
 
 
 ## References
