@@ -33,7 +33,7 @@ Here it might be helpful to include a high-level description of your final proje
 
 ### Setting up a separate page
 
-`[dataviz-tableau](https://lily-lee-ops.github.io/dataviz-tableau/)` = [dataviz-tableau](https://lily-lee-ops.github.io/dataviz-tableau/)  
+[dataviz-tableau](https://lily-lee-ops.github.io/dataviz-tableau/)  
 
 
 ## References
