@@ -37,6 +37,7 @@ News/Discussion (Reddit, X/Twitter)
 
 ![image](https://github.com/lily-lee-ops/Jingxuan-Li-portfolio/blob/main/sketch.jpg)
 
+<img src="sketch.jpg" width="600"/>
 
 Questions to ask: 
 
