@@ -5,7 +5,7 @@
 ## Step one: the visualization
 
 Link to the original data visualization:
-Author, N. (2025, March 31). Social media fact sheet. Pew Research Center. https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform
+Author, N. (2025, March 31). Social media fact sheet. Pew Research Center. https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform/
 
 I selected this social media platform usage visualization because it provides a comprehensive view of how digital social behaviors have evolved over the past decade. The data reveals not just which platforms dominate the landscape (YouTube and Facebook), but also captures the emergence and rapid adoption of newer platforms like TikTok alongside the steady growth of established networks like Instagram. This chart can help us understand how people choose social media across time with different purposes.
 
@@ -77,7 +77,7 @@ Platforms will be organized into meaningful categories and use category filterin
 
 ![image](https://github.com/lily-lee-ops/Jingxuan-Li-portfolio/blob/main/Dashboard_m.png)
 
-If you cannot see the picture on website, you can visit this link to see: https://public.tableau.com/app/profile/jingxuan.li4154/viz/MakeoverMon/Dashboard1?publish=yes
+If you cannot see the picture on website, you can visit this link to see: https://public.tableau.com/app/profile/jingxuan.li4154/viz/MakeoverMon/Dashboard1?publish=yes/
 
 ## References
 Author, N. (2025, March 31). Social media fact sheet. Pew Research Center. https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform
