@@ -76,6 +76,8 @@ Platforms will be organized into meaningful categories and use category filterin
 
 ![image](https://github.com/lily-lee-ops/Jingxuan-Li-portfolio/blob/main/Dashboard_m.png)
 
+If you cannot see the picture on website, you can visit this link to see: https://public.tableau.com/app/profile/jingxuan.li4154/viz/MakeoverMon/Dashboard1?publish=yes
+
 ## References
 Author, N. (2025, March 31). Social media fact sheet. Pew Research Center. https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform
 ## AI acknowledgements
