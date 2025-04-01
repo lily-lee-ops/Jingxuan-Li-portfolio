@@ -1,26 +1,46 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+# Critique and Redesign of Chart: Which social media platforms are most common?
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+Link to the original data visualization:
+Author, N. (2025, March 31). Social media fact sheet. Pew Research Center. https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform
+
+I selected this social media platform usage visualization because it provides a comprehensive view of how digital social behaviors have evolved over the past decade. The data reveals not just which platforms dominate the landscape (YouTube and Facebook), but also captures the emergence and rapid adoption of newer platforms like TikTok alongside the steady growth of established networks like Instagram. This chart can help us understand how people choose social media across time with different purposes.
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+Overall, this is an effective visualization that prioritizes clarity and accuracy over flashy design. Thus, it is a solid example of informative data presentation. 
+What stood out is the divergent paths of different platforms tell interesting stories. Instagram's consistent growth contrasts with Facebook's stagnation and youtube sudden dominance.
+
+What Worked Well: 
+1. Clear visual hierarchy: The chart effectively uses color differentiation to make it easy to track individual platforms across time.
+2. Context through scaling: The y-axis starting at 0% and extending to 100% provides appropriate context for comparing relative popularity.
+
+What didn't work well:
+1. Overlapping lines in congested areas: The middle section of the chart where several platforms cluster between 20-40% usage which is difficult to track individual platforms precisely.
+2. Limited context for shifts: While the chart shows the trends, it doesn't provide context for significant changes.
+3. Messy Platform categorization: Some might question whether LinkedIn and WhatsApp are directly comparable to entertainment-focused platforms like YouTube or TikTok, as they serve different purposes.
+4. No age group information.
 
 ## Step three: Sketch a solution
 
+1. Addressing the "clustering problem" in the 20-40% range where multiple platforms overlap, making it difficult to distinguish individual trends. [Use Split-panel]
+2. Adding platform categorization to provide context for why certain platforms behave differently: [Filter by platform category]
+Entertainment/Content Consumption (YouTube, TikTok)
+Social Networking (Facebook, Instagram)
+Professional Networking (LinkedIn)
+Messaging/Communication (WhatsApp)
+News/Discussion (Reddit, X/Twitter)
+
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+![image](https://github.com/lily-lee-ops/Jingxuan-Li-portfolio/blob/main/sketch.jpg)
 
-Questions to ask (modify these for your own interviews): 
+
+<img src="sketch.jpg" width="200"/>
+
+Questions to ask: 
 
 - Can you tell me what you think this is?
 
@@ -32,28 +52,33 @@ Questions to ask (modify these for your own interviews):
 
 - Is there anything you would change or do differently?
 
-Results: 
+Summary Improvement Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+1. Distingush different platform in different colors more clearly.
+2. Add some rank information to tell some stories to audience.
 
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+1. Emphasize the top 3-5 social media that most people used.
+2. Change the colors of the lines to show the market share or rank information of each social media.
 
 ## Step five: build the solution
+1. Split-Panel Approach for Clustering Problem
+The main visualization will be divided into two connected panels:
+Main Panel: Shows the complete trend lines for all platforms from 0-100%, maintaining the big picture view of the data. This preserves the clear visibility of dominant platforms like YouTube and Facebook.
+Focus Panel: A magnified view of just the 20-40% range where multiple platforms cluster together. This expanded section gives these mid-tier platforms room to breathe visually, making individual trend lines for LinkedIn, WhatsApp, Snapchat, X/Twitter, Reddit, etc. much easier to distinguish.
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+2. Platform Categorization Implementation
+Platforms will be organized into meaningful categories and use category filtering controls: Interactive filters that allow users to:
+-View all platforms simultaneously
+-Focus on a single category (e.g., only Entertainment platforms)
+-Compare selected categories side-by-side
+-Hide categories not relevant to their analysis
+
+
 
 ## References
-_List any references you used here._
-
+Author, N. (2025, March 31). Social media fact sheet. Pew Research Center. https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+Use Claude to inspire ways to categorize the social media.
