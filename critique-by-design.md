@@ -36,9 +36,7 @@ News/Discussion (Reddit, X/Twitter)
 
 ## Step four: Test the solution
 
-![image](https://github.com/lily-lee-ops/Jingxuan-Li-portfolio/blob/main/sketch.jpg)
-
-<img src="https://github.com/lily-lee-ops/Jingxuan-Li-portfolio/blob/main/sketch.jpg" width="600"/>
+![image](sketch.jpg)
 
 Questions to ask: 
 
@@ -76,11 +74,10 @@ Platforms will be organized into meaningful categories and use category filterin
 -Compare selected categories side-by-side
 -Hide categories not relevant to their analysis
 
-![image](https://github.com/lily-lee-ops/Jingxuan-Li-portfolio/blob/main/Dashboard_m.png)
+![image](Dashboard_m.png)
 
 If you cannot see the picture on website, you can visit this link to see: 
-`[Tabluae public-who use each social media](https://public.tableau.com/app/profile/jingxuan.li4154/viz/MakeoverMon/Dashboard1?publish=yes)` = [Tabluae public-who use each social media](https://public.tableau.com/app/profile/jingxuan.li4154/viz/MakeoverMon/Dashboard1?publish=yes)   
-https://public.tableau.com/app/profile/jingxuan.li4154/viz/MakeoverMon/Dashboard1?publish=yes/
+`[Tabluae public-who use each social media](https://public.tableau.com/app/profile/jingxuan.li4154/viz/MakeoverMon/Dashboard1?publish=yes)` = [Tabluae public-who use each social media](https://public.tableau.com/app/profile/jingxuan.li4154/viz/MakeoverMon/Dashboard1?publish=yes) 
 
 ## References
 Author, N. (2025, March 31). Social media fact sheet. Pew Research Center. https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform
