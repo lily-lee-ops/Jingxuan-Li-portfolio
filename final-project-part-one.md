@@ -8,8 +8,7 @@ America's dinner plate increasingly relies on a complex global network of food i
 
 
 ## Initial sketches
-![image](sketch_part1.jpg)
-
+<img src="sketch_part1.jpg" width="600"/>
 # The data
 Source URL: https://www.ers.usda.gov/data-products/us-food-imports
 My primary data source will be the U.S. Food Imports dataset published by the USDA Economic Research Service, which provides comprehensive annual statistics on the value and volume of food products in different categories imported into the United States. This dataset spans at least 20 years, offering valuable long-term trends on import patterns across different food categories and source countries.
