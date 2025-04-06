@@ -1,42 +1,24 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+America's dinner plate increasingly relies on a complex global network of food imports, reflecting changing demographics, evolving tastes, and the realities of a globalized food production system.
 
-Text here...
+
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-
-Text here...
+![image](sketch_part1.jpg)
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+Source URL: https://www.ers.usda.gov/data-products/us-food-imports
+My primary data source will be the U.S. Food Imports dataset published by the USDA Economic Research Service, which provides comprehensive annual statistics on the value and volume of food products in different categories imported into the United States. This dataset spans at least 20 years, offering valuable long-term trends on import patterns across different food categories and source countries.
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
-
+I plan to use this dataset to explore the evolution of America's food import dependencies and how these patterns reflect broader socioeconomic and cultural shifts within the U.S. By analyzing trends in import values across different food categories and source countries. I aim to visualize how factors such as increasing wealth, seasonal availability, and offshore processing have transformed US food system. This analysis will highlight not only changing consumer preferences but also the complex global interconnections that shape our daily food choices.
 ## References
-_List any references you used here._
+U.S. Food Imports | Economic Research Service. (2024, October 3). https://www.ers.usda.gov/data-products/us-food-imports
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
+Use Claude to summarize what the dataset looks like and possible problems to explore in the dataset.
