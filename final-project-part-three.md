@@ -1,36 +1,82 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+# Wireframes / storyboards
 
-Text here!
+https://preview.shorthand.com/7asfn3esweUv2s9d
 
-# Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+# User research 
 
-Text here!
+## Target audience
+The target audience for this food import patterns story includes:
 
-## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+Policy analysts and researchers in food security and international trade
+Graduate students studying agricultural economics or international development
+Government officials working in agriculture or trade departments
+Business professionals in the food import/export industry
+Informed citizens interested in global food systems and trade patterns
 
-Text here!
+## Interview script
+Introduction (2 minutes)
+"Thank you for agreeing to participate in this research. I'm creating a data story about global food import patterns using a dataset that tracks food imports across countries, commodities, and time. I'd like to show you my draft visualizations and get your feedback to improve them."
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+Background Questions (3 minutes)
+"What is your background or experience with food systems, international trade, or data analysis?"
+"How often do you interact with data visualizations in your work or studies?"
 
-Text here!
+Visualization Review (15-20 minutes)
+[Show each visualization individually, then as a complete story]
+
+For each visualization:
+"Please take a moment to look at this visualization. Could you tell me what you think it's showing?"
+"What information stands out to you the most?"
+"Is there anything confusing or unclear about this visualization?"
+"What questions does this visualization raise for you that aren't answered?"
+
+For the overall story:
+"Does the flow of information make sense to you?"
+"Are there any gaps in the story that you think should be addressed?"
+"Which visualization did you find most insightful or surprising?"
+
+Closing Questions (5 minutes)
+"If you could add one more visualization to this story, what would it show?"
+"Who do you think would benefit most from this information?"
+"Is there anything else you'd like to share about these visualizations or the overall story?"
+
+
+## Interview findings
+
+
+| Questions               | Interview 1 | Interview 2 | Interview 3 |
+|-------------------------|--------------------------------|-------------|-------------|
+| What is your initial impression of the data visualizations? | The visualizations are colorful but I'm not immediately clear on what story they're telling together. | I like the geographic map, but some of the colors are hard to distinguish between similar values.  | The visualizations present interesting data, but I'm missing the 'so what' factor - why should I care about these patterns? | 
+| Which visualization provides the most useful information to you? | The treemap showing commodity composition is most helpful for my research on agricultural trade patterns.   | The country heatmap is directly relevant to our sourcing decisions - I can quickly see which countries specialize in specific imports.| The time series chart helps me understand long-term trends. |
+| What information is difficult to understand? | The units of measurement aren't clear on the y-axis of the time series chart.  | The 'Other' category in the treemap is too large - it obscures potentially important subcategories.  |             |             |
+
+
+# Identified changes for Part III
+Clarity Improvements:
+Add clear units of measurement on all axes (USD millions, metric tons, etc.).
+Distinguish between value and volume metrics with clear labels.
+Improve color differentiation, especially on the geographic map.
+
+
+Content Enhancements:
+Include annotations for major trade agreements and policy changes.
+
+
+Story Development:
+Create stronger narrative connections between visualizations.
+Add "Key Insights" sections after each visualization.
+Develop a clearer "So what?" conclusion that emphasizes why these patterns matter.
+
+
+Interactive Features:
+Add time period filters across all visualizations.
+Implement comparison features (imports vs. domestic production).
+
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+[1] Pmp, F. F. (2024, October 21). Which foods are most vulnerable to import tariffs? Trace One SAS. https://www.traceone.com/resources/plm-compliance-blog/foods-most-vulnerable-to-import-tariffs#:~:text=Imported%20foods%20have%20become%20an,from%2012.4%25%20to%2017.3%25.
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
-
-Text here!
-
-# Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
-
-
+Use Claude to design possible visulizations and problems.
