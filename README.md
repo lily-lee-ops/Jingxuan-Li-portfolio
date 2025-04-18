@@ -39,5 +39,5 @@ Here it might be helpful to include a high-level description of your final proje
 ## References
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Use Claude to help with how to jump to another site in this site.
 
