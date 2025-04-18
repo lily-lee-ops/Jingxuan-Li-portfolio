@@ -1,34 +1,43 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+Please see the link below:
 
-Text here!
+https://preview.shorthand.com/7asfn3esweUv2s9d
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
-
-Text here!
+Improve the color setting for the trend line visulization.
+Adjust the width and length of the visulization diagrams.
+Add filter choice to increase the interaction and show more information.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
-
-Text here!
+General Public: 
+Citizens interested in understanding global food systems, food security, and international trade relationships. This audience needs accessible visualizations with clear explanations that avoid industry jargon and provide relevant context.
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+Throughout the development process, I made several key design decisions to enhance both the analytical value and accessibility of my visualizations:
 
-Text here!
+Color Strategy:
 
-## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+Initially used a wide color palette that interview participants found confusing
+Revised to use a consistent color scheme across visualizations with better distinction between categories
+Implemented colorblind-friendly options after learning one interview participant had color vision deficiency
+
+
+Data Aggregation Levels:
+
+Redesigned to show primary categories with drill-down capabilities for details
+Balanced information density with clarity based on feedback about cognitive overload
+
+
+Interactive Elements:
+
+Added time-period filters across visualizations after all three interviewees requested this feature
+Created guided narrative options for users less familiar with food trade terminology
+
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
-
-Text here!
+Use Claude to check where to improve in the Tableau data visulization.
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+Excited about how to create the story and how to create corresponding data visulizations. Whether the visulizations can adapt to my story? Should my story change because I cannot create the proper graphs? How to keep balance between a simplified visulizations and the story I want to tell and the information I would like to convey.
