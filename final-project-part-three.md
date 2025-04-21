@@ -3,7 +3,7 @@
 # The final data story
 Please see the link below:
 
-https://preview.shorthand.com/7asfn3esweUv2s9d
+[https://preview.shorthand.com/7asfn3esweUv2s9d](https://carnegiemellon.shorthandstories.com/americas-global-plate-the-story-of-u-s-food-imports/index.html)
 
 # Changes made since Part II
 Improve the color setting for the trend line visulization.
